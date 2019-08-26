@@ -1,1 +1,1 @@
-scmds
+start entry
